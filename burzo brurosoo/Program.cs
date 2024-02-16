@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Vuvedete vuzrast:");
 int age = int.Parse(Console.ReadLine());
-if (age > 24)
+if (age > 18)
 {
     Console.WriteLine("Ti si golqm");
 }
