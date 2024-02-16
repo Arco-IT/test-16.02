@@ -2,10 +2,10 @@
 int age = int.Parse(Console.ReadLine());
 if (age > 18)
 {
-    Console.WriteLine("Ti si golqm");
+    Console.WriteLine("Пълнолетен");
 }
 
 else
 {
-    Console.WriteLine("Ti si maluk");
+    Console.WriteLine("Непълнолетен");
 }
